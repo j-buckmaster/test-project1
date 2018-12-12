@@ -1,2 +1,2 @@
 # test-project1
-my first project
+This is my first project following along with Sam Cogan on youtube with his github videos. 
